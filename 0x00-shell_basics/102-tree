@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdeir -p  welcome/to/school
+mkdeir -p welcome/to/school
